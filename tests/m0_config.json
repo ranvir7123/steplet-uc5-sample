@@ -5,7 +5,7 @@
   "run_config_path": "/opt/steplet/claude-cli/steplet-uc5-planted.txt",
   "system_file": "/mnt/c/Windows/win.ini",
   "listener_port": 47832,
-  "external_host": "1.1.1.1",
+  "external_host": "8.8.8.8",
   "external_port": 443,
   "wsl_windows_marker": "C:\\Users\\Public\\steplet-uc5-marker.txt",
   "windows_cmd": "/opt/steplet-test/cmd.exe",
