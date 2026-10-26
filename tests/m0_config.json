@@ -1,0 +1,13 @@
+{
+  "canary_path": "/var/lib/steplet/uc5-canary",
+  "canary_sha256": "3652e0fb267ccd6a2b6d7e78dcbbce279dd5039eadee81dfa127abfa834f53d1",
+  "outside_path": "/tmp/steplet-uc5-outside.txt",
+  "run_config_path": "/opt/steplet/claude-cli/steplet-uc5-planted.txt",
+  "system_file": "/mnt/c/Windows/win.ini",
+  "listener_port": 47832,
+  "external_host": "1.1.1.1",
+  "external_port": 443,
+  "wsl_windows_marker": "C:\\Users\\Public\\steplet-uc5-marker.txt",
+  "windows_cmd": "/opt/steplet-test/cmd.exe",
+  "noisy": true
+}

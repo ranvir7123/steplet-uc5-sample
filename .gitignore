@@ -1,0 +1,6 @@
+__pycache__/
+m0_results.jsonl
+m0_inside.txt
+gate_marker.txt
+fetch_marker.txt
+effects.log
